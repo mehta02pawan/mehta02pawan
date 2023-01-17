@@ -17,3 +17,4 @@
  ###### As these domains are used just for testing purpose, therefore UI might not be that responsive.
   - [WESTERN INDIA GRANITES](https://western-india-granites-ecomm.vercel.app/)
   - [SAKSHI OVERSEAS](https://sakshioverseas.vercel.app/)
+  - [CANADA CURLS: BROCHURE WEBSITE](https://canadacurls.vercel.app/)
